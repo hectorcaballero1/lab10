@@ -1,0 +1,7 @@
+psycopg2-binary
+ucimlrepo
+numpy
+pandas
+matplotlib
+ipykernel
+jupyter
